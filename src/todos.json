@@ -1,0 +1,22 @@
+{
+  "todos": [
+    {
+      "nombre": "Daniel",
+      "numero1": "3217313266",
+      "numero2": "3122219186",
+      "codigo": "+57"
+    },
+    {
+      "nombre": "Alejandro",
+      "numero1": "3228434058",
+      "numero2": "3152986545",
+      "codigo": "+57"
+    },
+    {
+      "nombre": "Diana",
+      "numero1": "3102394386",
+      "numero2": "3217313264",
+      "codigo": "+57"
+    }
+  ]
+}
