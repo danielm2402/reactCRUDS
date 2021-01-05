@@ -55,12 +55,13 @@ class App extends Component {
               <button
                 className="btn btn-info"
                 onClick={this.removeTodo.bind(this, i)}>
-                Eliminar
+                Delete
               </button>
               <button
+              style={{marginLeft:20}}
                 className="btn btn-info"
                 onClick={this.actualizarTodo.bind(this, i)}>
-                Actualizar
+                Update
               </button>
             </div>
           </div>
@@ -74,7 +75,7 @@ class App extends Component {
         <nav className="navbar navbar-dark bg-dark">
           <a className="navbar-brand" href="/">
             <span className="badge badge-pill badge-light ml-2">
-                C R U D S 
+                P H O N E B O O K 
             </span>
           </a>
         </nav>

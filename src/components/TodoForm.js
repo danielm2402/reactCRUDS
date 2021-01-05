@@ -43,7 +43,7 @@ class TodoForm extends Component {
               className="form-control"
               value={this.state.nombre}
               onChange={this.handleInputChange}
-              placeholder="Nombre"
+              placeholder="Name"
               />
           </div>
 
@@ -67,7 +67,7 @@ class TodoForm extends Component {
               className="form-control"
               value={this.state.numero1}
               onChange={this.handleInputChange}
-              placeholder="Número 1"
+              placeholder="Number one"
               />
           </div>
           <div className="form-group">
@@ -77,12 +77,12 @@ class TodoForm extends Component {
               className="form-control"
               value={this.state.numero2}
               onChange={this.handleInputChange}
-              placeholder="Número 2"
+              placeholder="Number two"
               />
           </div>
          
           <button type="submit" className="btn btn-primary">
-            Guardar
+            Save
           </button>
         </form>
       </div>
